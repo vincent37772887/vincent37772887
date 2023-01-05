@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vincent koech
-- 👀 I’m interested in robotics and web development
+- 👀 I’m interested in robotics,web development and networking.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me contact me +254705980006
